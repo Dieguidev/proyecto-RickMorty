@@ -6,7 +6,7 @@ import './App.css';
 import About from './pages/About/About';
 import Character from './pages/Characters/Character';
 import Header from './components/Header/Header';
-import Nav from './Nav/Nav';
+import Nav from './components/Nav/Nav';
 
 function App() {
   return (
