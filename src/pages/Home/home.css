@@ -1,0 +1,20 @@
+h2 {
+  margin-top: 100px;
+  font-size: 30px;
+}
+
+
+.linkToCharacters{
+  font-weight: bold;
+  font-size: 20px;
+  padding: 10px 20px;
+  color: aqua;
+  background-color: blueviolet;
+  border: none;
+  border-radius: 5px;
+}
+
+.linkToCharacters:hover {
+  cursor: pointer;
+  background-color: rgb(4, 57, 44);
+}
